@@ -75,7 +75,7 @@ export default function Hero() {
 
             {/* CTAs */}
             <div className="hero-actions">
-              <a href="/cv.pdf" download="CV-Dini-Sriastuti.pdf" className="btn-primary">
+              <a href="./cv.pdf" download="CV-Dini-Sriastuti.pdf" className="btn-primary">
                 <Download className="btn-icon" />
                 <span>Download CV</span>
               </a>
@@ -90,7 +90,7 @@ export default function Hero() {
           <div className="hero-right">
             <div className="profile-circle-container">
               <img
-                src="/profile.png"
+                src="./profile.png"
                 onError={(e) => {
                   e.target.onerror = null
                   e.target.src = fallbackAvatarSvg

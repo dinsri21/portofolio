@@ -7,14 +7,14 @@ const CERTIFICATES = [
     id: 1,
     title: 'AI Productivity and AI API Integration for Developers',
     issuer: 'Hacktiv8 Indonesia — Maju Bareng AI Program · 2026',
-    imgSrc: '/cert-ai-productivity.jpg',
+    imgSrc: './cert-ai-productivity.jpg',
     fallbackSvg: `data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="800" height="560" viewBox="0 0 800 560"><rect width="800" height="560" fill="%230f111a" rx="16"/><rect x="20" y="20" width="760" height="520" fill="none" stroke="%236366f1" stroke-width="2" stroke-dasharray="8 8" rx="12"/><text x="400" y="240" font-family="sans-serif" font-size="28" font-weight="bold" fill="%23f8fafc" text-anchor="middle">Sertifikat 1 (PNG)</text><text x="400" y="285" font-family="sans-serif" font-size="18" fill="%23a5b4fc" text-anchor="middle">AI Productivity %26 AI API Integration</text></svg>`
   },
   {
     id: 2,
     title: 'Green Jobs Training — Solar Power Installation',
     issuer: 'Balai Besar Pelatihan Vokasi dan Produktivitas Bandung · 2026',
-    imgSrc: '/cert-solar-power.jpg',
+    imgSrc: './cert-solar-power.jpg',
     fallbackSvg: `data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="800" height="560" viewBox="0 0 800 560"><rect width="800" height="560" fill="%230f111a" rx="16"/><rect x="20" y="20" width="760" height="520" fill="none" stroke="%2310b981" stroke-width="2" stroke-dasharray="8 8" rx="12"/><text x="400" y="240" font-family="sans-serif" font-size="28" font-weight="bold" fill="%23f8fafc" text-anchor="middle">Sertifikat 2 (PNG)</text><text x="400" y="285" font-family="sans-serif" font-size="18" fill="%236ee7b7" text-anchor="middle">Green Jobs Training — Solar Power Installation</text></svg>`
   }
 ]
