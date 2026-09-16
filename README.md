@@ -87,15 +87,4 @@ Hasil kompilasi produksi akan tersimpan di dalam folder `dist/` dan siap di-depl
 
 ---
 
-## 👩‍💻 Dibuat Oleh
-
-**Dini Sriastuti**  
-- **Email**: [sriastutidini21@gmail.com](mailto:sriastutidini21@gmail.com)
-- **GitHub**: [@dinsri21](https://github.com/dinsri21)
-- **LinkedIn**: [Dini Sriastuti](https://www.linkedin.com/in/dini-sriastuti-59b305417)
-- **Instagram**: [@dinisriad](https://www.instagram.com/dinisriad)
-- **WhatsApp**: [+62 838-2257-2238](https://wa.me/6283822572238)
-
----
-
 *© 2026 Dini Sriastuti. All rights reserved.*
